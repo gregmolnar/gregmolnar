@@ -7,12 +7,12 @@
 
 ### Blogs posts
 
-[A Single file Rails Application](https://greg.molnar.io/blog/a-single-file-rails-application)
-[Method chaining in Ruby](https://greg.molnar.io/blog/method-chaining-in-ruby)
-[Rails magic breakdown: 1.day.ago](https://greg.molnar.io/blog/rails-magic-breakdown-1-day-ago/)
-[6 security improvements in Rails 7](https://greg.molnar.io/blog/6-security-improvements-in-rails-7/)
-[rubygems CVE-2022-29176 explained](https://greg.molnar.io/blog/rubygems-cve-2022-29176/)
-[console1984 bypass](https://greg.molnar.io/blog/console1984-bypass/)
+- [A Single file Rails Application](https://greg.molnar.io/blog/a-single-file-rails-application)
+- [Method chaining in Ruby](https://greg.molnar.io/blog/method-chaining-in-ruby)
+- [Rails magic breakdown: 1.day.ago](https://greg.molnar.io/blog/rails-magic-breakdown-1-day-ago/)
+- [6 security improvements in Rails 7](https://greg.molnar.io/blog/6-security-improvements-in-rails-7/)
+- [rubygems CVE-2022-29176 explained](https://greg.molnar.io/blog/rubygems-cve-2022-29176/)
+- [console1984 bypass](https://greg.molnar.io/blog/console1984-bypass/)
 
 
 <h3 align="left">Connect with me:</h3>
