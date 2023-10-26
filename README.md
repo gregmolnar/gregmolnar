@@ -19,7 +19,7 @@
 <p align="left">
   <a href="https://twitter.com/gregmolnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregmolnar" height="30" width="40" /></a>
   <a href="https://greg.molnar.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://greg.molnar.io/feed.xml" height="30" width="40" /></a>
-  <a href="https://www.getrevue.co/profile/gregmolnar" style="display: flex; ">
+  <a href="https://pombomailer/n/railstricks" style="display: flex; ">
     <img align="center" src="https://cdn.jsdelivr.net/npm/heroicons@0.4.0/outline/newspaper.svg" alt="https://greg.molnar.io/feed.xml" height="30" width="40" />
     Newsletter
   </a>
